@@ -151,4 +151,7 @@
   <!-- Tools -->
   <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="master" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
+
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
+
 </manifest>
