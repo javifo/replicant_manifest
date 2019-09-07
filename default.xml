@@ -339,7 +339,7 @@
   <project path="external/strace" name="platform/external/strace" groups="pdk" remote="aosp" />
   <project path="external/stressapptest" name="platform/external/stressapptest" groups="pdk" remote="aosp" />
   <project path="external/subsampling-scale-image-view" name="platform/external/subsampling-scale-image-view" groups="pdk" clone-depth="1" remote="aosp" />
-  <project path="external/swiftshader" name="platform/external/swiftshader" groups="pdk" remote="aosp" />
+  <project path="external/swiftshader" name="platform/external/swiftshader" groups="pdk" remote="aosp" revision="fde88d96a58b92beab76035393b3acd849445160" />
   <project path="external/syzkaller" name="platform/external/syzkaller" groups="projectarch,pdk" remote="aosp" />
   <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk" remote="aosp" />
   <project path="external/tcpdump" name="platform/external/tcpdump" groups="pdk" remote="aosp" />
