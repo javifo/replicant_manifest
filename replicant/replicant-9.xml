@@ -15,6 +15,7 @@
   </project>
 
   <project path="device/samsung/i9305" name="replicant-9/device_samsung_i9305" remote="replicant-9" revision="replicant-10"/>
+  <project path="device/samsung/i9300" name="replicant-9/device_samsung_i9300" remote="replicant-9" revision="replicant-10"/>
   <project path="hardware/replicant/libsamsung-ipc" name="replicant/hardware_replicant_libsamsung-ipc" remote="replicant-9" revision="master" />
   <project path="external/mesa3d" name="replicant-9/external_mesa3d" remote="replicant-9" groups="pdk-cw-fs,pdk-fs" revision="replicant-10"/>
   <project path="kernel/replicant/linux" name="replicant-9/kernel_replicant_linux" remote="replicant-9" revision="replicant-10" />
