@@ -4,7 +4,7 @@
            revision="replicant-9"
            fetch=".." />
 
-  <project path="build/make" name="replicant-9/build_make" groups="pdk" remote="replicant-9">
+  <project path="build/make" name="replicant-9/build_make" groups="pdk" remote="replicant-9" revision="replicant-10">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
