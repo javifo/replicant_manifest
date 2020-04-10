@@ -14,6 +14,7 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
 
+  <project path="device/samsung/midas-common" name="replicant-9/device_samsung_midas_common" remote="replicant-9" revision="replicant-10"/>
   <project path="device/samsung/i9305" name="replicant-9/device_samsung_i9305" remote="replicant-9" revision="replicant-10"/>
   <project path="device/samsung/i9300" name="replicant-9/device_samsung_i9300" remote="replicant-9" revision="replicant-10"/>
   <project path="hardware/replicant/libsamsung-ipc" name="replicant/hardware_replicant_libsamsung-ipc" remote="replicant-9" revision="master" />
