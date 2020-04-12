@@ -23,4 +23,5 @@
   <project path="system/core" name="replicant-9/system_core" groups="pdk" remote="replicant-9" revision="replicant-10" />
   <project path="vendor/lineage" name="replicant-9/vendor_lineage" remote="replicant-9" revision="replicant-10" />
   <project path="frameworks/base" name="replicant-9/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="replicant-9" revision="replicant-10" />
+  <project path="external/libdrm" name="replicant-9/external_libdrm" groups="pdk" remote="replicant-9" revision="replicant-10" />
 </manifest>
